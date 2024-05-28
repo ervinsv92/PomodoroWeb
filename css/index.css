@@ -1,0 +1,19 @@
+.number{
+    text-align: center;
+    font-size: 12rem;
+}
+
+.hide{
+    display: none;
+}
+.currentTitle{
+    text-align: center;
+    font-size: 6rem;
+}
+
+.working-color{
+    color: #198754;
+}
+.resting-color{
+    color: #ffc107;
+}
